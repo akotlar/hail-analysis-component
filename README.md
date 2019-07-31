@@ -1,2 +1,2 @@
-# hail-analysis-component
-A simple Hail analysis component
+# Component name
+A simple description
